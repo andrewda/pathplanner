@@ -70,7 +70,7 @@ jobs:
             build-option: "macos"
             artifact-path: "build/macos/Build/Products/Release/PathPlanner-macOS.zip"
             artifact-name: PathPlanner-macOS
-          - os: ubuntu-22.04
+          - os: ubuntu-18.04
             build-option: "linux"
             artifact-path: "build/linux/x64/release/bundle"
             artifact-name: PathPlanner-Linux
